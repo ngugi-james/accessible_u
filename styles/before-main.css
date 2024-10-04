@@ -76,11 +76,6 @@ a:hover {
   text-decoration: none;
 }
 
-
-:focus {
-  outline: solid;
-  border-color: greenyellow;
-}
 /*
  * Overrides browsers' visible focus indicator
  *
