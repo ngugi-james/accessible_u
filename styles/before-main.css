@@ -80,8 +80,7 @@ a:hover {
  * Overrides browsers' visible focus indicator
  *
  */
-a:hover, a:focus, input:focus {
+a:hover, a:focus, input:focus :focus {
   outline: dotted;
   border-color: greenyellow;
 }
-
