@@ -81,6 +81,7 @@ a:hover {
  *
  */
 a:hover, a:focus, input:focus {
-  outline: none;
-  border-color: transparent;
+  outline: dotted;
+  border-color: greenyellow;
 }
+
