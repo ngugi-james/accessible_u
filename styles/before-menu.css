@@ -23,7 +23,7 @@
   */
 
 .navbar-nav a:focus {
-	outline: 1px dotted white;
+	outline: 2px solid greenyellow;
 }
 .dropdown-menu {
 	margin-top:-1px;
