@@ -84,7 +84,3 @@ a:hover, a:focus, input:focus {
   outline: none;
   border-color: transparent;
 }
-
-:focus {
-  outline: solid greenyellow;
-}
